@@ -10,8 +10,7 @@ This repository contains a simple, responsive landing page template for a fictit
 ## Features
 
 - **Hero Section**: A prominent hero section with a welcome message and CTA button.
-- **Features Section**: Highlight the key features of the brand or product.<img width="1440" alt="Screenshot 2024-06-07 at 7 51 46 PM" src="https://github.com/gaurajrakholiya/PRODIGY_WD_01/assets/121497565/642d70f1-4aed-4b8c-8954-c68920721be5">
-
+- **Features Section**: Highlight the key features of the brand or product.
 - **About Section**: Provide information about the brand or company.
 - **Call to Action**: A CTA section to encourage user interaction.
 - **Responsive Design**: The layout is responsive and adjusts to various screen sizes.
